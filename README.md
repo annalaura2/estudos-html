@@ -386,8 +386,9 @@ printf("Eu estou aprendendo frontend\n");
     <h1>
         Imagens Dinâmicas 
     </h1>
-    Utilizando a tag picture <mark> picture </mark> é possível pegar imagens com vários src diferentes
-    <picture>
+    Utilizando a tag picture <mark> picture </mark> é possível pegar imagens com vários src diferentes7
+    
+    <//picture>
         <source media="(max-width: 750px)" srcset="f" type="">
         <source media="(max-width: 1050px)" srcset="" type="">
         <img src="" alt="Imagem flexível">
