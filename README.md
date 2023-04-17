@@ -395,6 +395,20 @@ printf("Eu estou aprendendo frontend\n");
     </picture>
 
 </p>
+<h1>
+            Colocando áudio no site
+        </h1>
+        Para colocar audios em HTML5 de uma maneira mais simples, basta utilizar a tag <\audio src controls autoplay>
+            </>
+            <br>
+
+            <br>Outra forma de colocar os áudios
+            no site usando a mesma tag é tirar os source do parâmetro áudio
+
+            <br><audio preload="metadata" controls loop>
+                <source src="winterRide-twinmusicom.mp3" type="audio/mpeg">
+            </audio>
+            </p>
 
 
 </body>
