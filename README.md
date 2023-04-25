@@ -409,6 +409,13 @@ printf("Eu estou aprendendo frontend\n");
                 <source src="winterRide-twinmusicom.mp3" type="audio/mpeg">
             </audio>
             </p>
+             <p>
+                <h1>
+                    Inserindo vídeos hospedados localmente
+                </h1>
+
+                <video src="meuvideo2.mp4" width="300px" controls autoplay></video>
+            </p>
 
 
 </body>
